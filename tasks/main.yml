@@ -31,3 +31,4 @@
     src: templates/elk.sh.j2
     dest: /etc/profile.d/elk.sh
   tags: elastic
+
