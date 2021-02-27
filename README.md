@@ -1,4 +1,4 @@
-Elasticsearch
+Elasticsearch 
 =========
 
 Simple download binaries from official website and install elasticsearch.
